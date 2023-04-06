@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{11B6960E-7DFA-459B-AF06-7A6C36C6C5AB}|api">
+  <MonoDevelop.Ide.ItemProperties.APIbackend__mission14 PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIbackend_mission14/Program.cs">
+    <Files>
+      <File FileName="APIbackend_mission14/appsettings.json" />
+      <File FileName="APIbackend_mission14/Models/Movie.cs" Line="25" Column="1" />
+      <File FileName="APIbackend_mission14/Models/MovieDbContext.cs" Line="1" Column="1" />
+      <File FileName="APIbackend_mission14/Properties/launchSettings.json" />
+      <File FileName="APIbackend_mission14/Controllers/MovieController.cs" />
+      <File FileName="APIbackend_mission14/Program.cs" Line="32" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APIbackend_mission14" expanded="True">
+            <Node name="APIbackend_mission14" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
